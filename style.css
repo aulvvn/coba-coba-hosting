@@ -2,7 +2,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background-color: #0b0f2b;
+  background-color: #F19CBB;
   color: #000000;
 }
 
@@ -46,7 +46,7 @@ nav a {
 }
 
 nav a.active {
-  border-bottom: 2px solid #00c3ff;
+  border-bottom: 2px solid #F19CBB;
 }
 
 /* Hero Section */
@@ -65,7 +65,7 @@ nav a.active {
 .hero .btn {
   display: inline-block;
   background: #F19CBB;
-  color: #000;
+  color: #F19CBB;
   padding: 10px 20px;
   border-radius: 5px;
   margin-top: 20px;
